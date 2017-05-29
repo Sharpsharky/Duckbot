@@ -1,0 +1,22 @@
+{
+  "name": "duckbot",
+  "version": "1.0.0",
+  "description": "PreDuck-bot for tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharpsharky/Duckbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sharpsharky/Duckbot/issues"
+  },
+  "homepage": "https://github.com/Sharpsharky/Duckbot#readme",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
